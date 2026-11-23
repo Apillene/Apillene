@@ -5,29 +5,27 @@
 
 ## Что я умею
 
-- Ручное тестирование веб- и десктопных приложений: функциональное, негативное, регрессионное, UI/UX.
+- Ручное тестирование веб- и десктопных приложений: функциональное, негативное, UI/UX.
 - Тест-дизайн: чек-листы, тест-кейсы, граничные значения, классы эквивалентности.
-- Баг-репорты: шаги, expected/actual, severity/priority, evidence, root cause.
-- Инструменты: DevTools (Network/Console/Application), Lighthouse, UI Automation, Git, GitHub Actions.
-- Основы: SQL, HTTP, HTML/CSS, C#, чтение кода для локализации дефекта.
-- Автоматизация: C# + UI Automation; базово Playwright.
+- Баг-репорты: шаги воспроизведения, expected/actual, severity/priority, скриншоты, причина дефекта.
+- Инструменты: DevTools (Network/Console/Application), Lighthouse, Git, Windows Snipping Tool.
+- Основы: SQL, HTTP, HTML/CSS, чтение кода для локализации дефекта.
 
 ## Проекты
 
 | Проект | Что внутри |
 |--------|------------|
-| [web-testing-buggy-cars](https://github.com/Apillene/web-testing-buggy-cars) | Ручное тестирование веб-приложения: 39 кейсов, 13 баг-репортов, Lighthouse, security-проверки |
-| [desktop-qa-sandbox](https://github.com/Apillene/desktop-qa-sandbox) | WinForms-стенд: 38 кейсов, 14 дефектов, автоматизация на UI Automation + CI |
+| [web-testing-buggy-cars](https://github.com/Apillene/web-testing-buggy-cars) | Ручное тестирование веб-приложения: 39 кейсов, 13 баг-репортов, Lighthouse, проверка безопасности |
+| [desktop-qa-sandbox](https://github.com/Apillene/desktop-qa-sandbox) | Ручное тестирование WinForms-приложения: 38 кейсов, 14 дефектов, скриншоты и отчёты |
 
 ## Как я работаю
 
 1. Разбираю требование и фиксирую ожидаемое поведение.
-2. Проектирую проверки так, чтобы их можно было повторить.
-3. Подтверждаю дефект минимум двумя способами и прикладываю доказательства.
+2. Проектирую проверки так, чтобы их можно было повторить вручную.
+3. Подтверждаю дефект и прикладываю доказательства.
 4. Пишу отчёт, по которому разработчик воспроизведёт проблему с первого раза.
-5. Автоматизирую то, что уже стабильно воспроизводится.
 
 ## Контакты
 
 - GitHub: [@Apillene](https://github.com/Apillene)
-- Открыт к стажировкам и junior-позициям в QA (ручное + автоматизация).
+- Открыт к стажировкам и junior-позициям в QA (ручное тестирование).
